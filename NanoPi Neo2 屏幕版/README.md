@@ -1,1 +1,1 @@
-﻿第一个Nanopi Neo2带屏幕显示的固件已经发布！记得群里晒图反馈bug哦！have fun!😁
+﻿Nanopi Neo2带屏幕显示的固件已经发布！记得群里晒图反馈bug哦！have fun!😁
